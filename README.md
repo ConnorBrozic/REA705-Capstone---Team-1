@@ -1,4 +1,4 @@
-# REA705-Capstone---Team-1
+# REA705-Capstone---Team-1 --- Supplimental documents for Team 1 PoS/Restaurant Honeypot Setup
 By: Connor Brozic & Abhayjot Ressi & Ali Jalali & Jonathan Montiero
 
 
