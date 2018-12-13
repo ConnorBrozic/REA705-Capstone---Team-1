@@ -1,5 +1,5 @@
 ##REA705 Team 1 Code Submission
-##BY: Connor Brozic, Abhayjot Ressi, Ali Jalali, Jonathan Montiero
+##BY: Connor Brozic, Abhayjot Ressi, Ali Jalali, Jonathan Montiero, Andres Mollejas
 ##This is the configuration file for Graylog, and is used to create the visual dashboard that collects all information from the four cloud honeypot instances.  
 ##Each entry in this JSON corresponds to a widget in our dashboard.
 
